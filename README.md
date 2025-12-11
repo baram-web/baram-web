@@ -30,12 +30,6 @@
   </div>
 
   <br><br>
-
-  <h3>📊 GitHub Stats</h3>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=baram-web&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baram-web&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180px"/>
-  </div>
   
   <br>
 
