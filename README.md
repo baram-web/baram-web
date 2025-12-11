@@ -1,11 +1,11 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=박정언&fontSize=70&fontAlign=50&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=250&section=header&text=Park%20Jung-un&fontSize=70&fontAlign=50&animation=twinkling&desc=Developer&descAlignY=75&descSize=25" width="100%"/>
 
   <br><br>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Creative+Developer;Always+Learning+Something+New;Code+is+Poetry" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=500&lines=Welcome+to+my+profile!;C+%26+Python+Developer" alt="Typing SVG" />
   </a>
 
   <br><br>
@@ -18,6 +18,19 @@
   <div>
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </div>
+
+  <br><br>
+
+  <h3>📫 Contact</h3>
+  <div>
+    <a href="mailto:parkjungun000@gmail.com">
+      <img src="https://img.shields.io/badge/parkjungun000@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    </a>
+    <br>
+    <a href="https://www.instagram.com/jxng.un">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+    </a>
   </div>
 
   <br><br>
